@@ -1,2 +1,1 @@
-# willianklasoli-gmail.com
-Blood resistome
+# Blood resistome
