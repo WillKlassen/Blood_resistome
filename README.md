@@ -6,4 +6,5 @@ table_filter_blood_review.py: Python script used to filter all PATRIC Database r
 
   Usage: python3 table_filter_blood_review.py input_table_from_patric_database.tsv
 
-resistome.py: Python script used to analyse results from hmmsearch from blood isolates against Resfams HMM profile 
+resistome_analysis.py: Python script used to analyse results from hmmsearch from blood isolates against Resfams HMM profile 
+To use this script, open the script file and replace the path variables to your path files and directories
